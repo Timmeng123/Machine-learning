@@ -1,0 +1,5 @@
+https://blog.csdn.net/qq_43493562/article/details/110918276
+%SVM之Libsvm工具包的安装教程
+
+https://blog.csdn.net/paticita/article/details/123912840
+%Windows下安装tdm-gcc(64位)

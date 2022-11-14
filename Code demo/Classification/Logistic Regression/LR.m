@@ -1,0 +1,1 @@
+logistic_regression('pendigits_training.txt', 2, 'pendigits_test.txt')
